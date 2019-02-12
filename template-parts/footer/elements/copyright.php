@@ -1,0 +1,1 @@
+<div class="herald-copyright"><?php echo herald_get_option('footer_copyright'); ?></div>
